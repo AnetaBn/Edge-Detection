@@ -280,7 +280,7 @@ public class Canny {
 
     /**
      * 
-     * @param pixelDirection direction value for a given poxel from -pi to pi
+     * @param pixelDirection direction value for a given pixel from -pi to pi
      * @return
      */
     private int roundDirection(double pixelDirection) {
