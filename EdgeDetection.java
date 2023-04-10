@@ -9,7 +9,7 @@ import java.time.LocalTime;
 import java.util.HashMap;
 
 /**
- * Class that processes images using the Scharr, Sobel and Prewitt algorithm
+ * Class that processes images using the Scharr, Sobel and Prewitt algorithms
  */
 
 public class EdgeDetection {
