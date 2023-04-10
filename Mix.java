@@ -62,8 +62,7 @@ public class Mix {
 
     /**
      * The method takes a 2D array of gray levels and a kernel and applies a splice
-     * over the image area
-     * defined by width and height and returns a portion of the output image.
+     * over the image are defined by width and height and returns a portion of the output image.
      * 
      * @param input
      * @param width
