@@ -218,7 +218,7 @@ public class EdgeDetectionUI {
     }
 
     /**
-     * The class implements the image display panel and how to load an image
+     * The class implements the image display panel and image loading method
      */
 
     public class ImagePanel extends JPanel {
