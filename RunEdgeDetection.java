@@ -9,7 +9,7 @@ import java.io.IOException;
 public class RunEdgeDetection {
 
     /**
-     * Example of using the EdgeDetectionUI class.
+     * Example of using the EdgeDetectionUI class
      * 
      * @param args
      * @exception IOException
